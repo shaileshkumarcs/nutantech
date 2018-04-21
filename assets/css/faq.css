@@ -1,0 +1,15 @@
+.background{
+	background-color: #f3f1f1;
+}
+.answer{
+	display: none;
+}
+.questionpanel{
+	background-color: #FFF;
+	color: #000;
+	border-radius: 5px;
+	padding: 2px;
+}
+.question{
+	cursor: pointer;
+}

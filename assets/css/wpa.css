@@ -1,0 +1,57 @@
+.portfoliobg{
+    background-image: url("../images/nutantech_online_pwa.jpg");
+    /*min-height: 500px;*/
+    height: 100%;
+    /*background-attachment: fixed;*/
+    background-position: center;
+
+    background-size: cover;
+   background-repeat: no-repeat;
+    /*background-color: #6867c3;*/
+}
+.titletext{
+	font-size: 36px;
+	line-height: 61px;
+
+	padding: 60px 0px 60px;
+	/*text-align: center;
+  background-color: rgba(0,0,0,0.8);*/
+}
+.white-text{
+	color: #FFF;
+	/*background-color: rgba(0,0,0,0.5);*/
+	padding: 10px;
+	border-radius: 5px;
+}
+.pfonts{
+	font-size: 16px;
+}
+.webdetails{
+	padding: 50px;
+	background-color: #FFFFFF;
+}
+.paddetails{
+	padding-left: 20px;
+}
+.descriptionweb{
+	background-color: #DDD;
+	padding-bottom: 50px;
+}
+.btncolor{
+	padding-left: 8px 20px;
+	border-radius: 3px;
+	border-color: 1px solid #139de2;
+	background-color: #139de2;
+	color: #FFFFFF;
+}
+.contactbtn{
+	padding: 50px;
+}
+.prograssive:hover {
+-webkit-transform:scale(1.2);
+transform:scale(1.2);
+}
+.prograssive {
+-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+}

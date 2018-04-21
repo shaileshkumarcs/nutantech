@@ -1,0 +1,28 @@
+.fixed-bg {
+    background-image: url("../images/responsive-2044921_1920.jpg");
+    /*min-height: 500px;*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div .fixed-bg h1{
+	text-align: center;
+}
+.titletext{
+	font-size: 36px;
+	line-height: 61px;
+	text-align: center;
+	padding: 150px 0px 140px;
+	/*background-color: rgba(0,0,0,0.8);*/
+}
+.white-text{
+	color: #FFF;
+	background-color: rgba(0,0,0,0.5);
+	padding: 10px;
+	border-radius: 5px;
+}
+.linehr{
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}

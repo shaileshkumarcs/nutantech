@@ -1,0 +1,27 @@
+[30-Aug-2017 04:51:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantec/public_html/nutantech.online/dbconfig.php on line 13
+[30-Aug-2017 04:51:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/nutantec/public_html/nutantech.online/logindb.php on line 8
+[30-Aug-2017 04:51:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/nutantec/public_html/nutantech.online/logindb.php on line 9
+[30-Aug-2017 04:51:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantec/public_html/nutantech.online/dbconfig.php on line 13
+[30-Aug-2017 04:51:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/nutantec/public_html/nutantech.online/logindb.php on line 8
+[30-Aug-2017 04:51:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/nutantec/public_html/nutantech.online/logindb.php on line 9
+[30-Aug-2017 14:35:43 UTC] PHP Fatal error:  Call to a member function Output() on null in /home/nutantec/public_html/application/controllers/Email.php on line 41
+[30-Aug-2017 14:42:16 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/nutantec/public_html/application/controllers/Contactus.php on line 82
+[30-Aug-2017 15:17:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nutan'@'localhost' (using password: YES) in /home/nutantec/public_html/dbconfig.php on line 13
+[30-Aug-2017 15:18:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nutantec_nutan'@'localhost' to database 'nutantec_nutantech' in /home/nutantec/public_html/dbconfig.php on line 13
+[30-Aug-2017 15:20:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nutantec_nutan'@'localhost' to database 'nutantec_nutantech' in /home/nutantec/public_html/dbconfig.php on line 13
+[30-Aug-2017 15:21:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nutantec_nutan'@'103.14.98.177' to database 'nutantec_nutantech' in /home/nutantec/public_html/dbconfig.php on line 13
+[30-Aug-2017 15:24:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nutantec_nutan'@'localhost' to database 'nutantec_nutantech' in /home/nutantec/public_html/dbconfig.php on line 13
+[30-Aug-2017 15:26:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nutantec_nutan'@'localhost' (using password: YES) in /home/nutantec/public_html/dbconfig.php on line 13
+[30-Aug-2017 15:26:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nutantec_nutan'@'localhost' to database 'nutantec_nutantech' in /home/nutantec/public_html/dbconfig.php on line 13
+[30-Aug-2017 15:30:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nutantec_nutan'@'localhost' to database 'nutantec_nutantech' in /home/nutantec/public_html/dbconfig.php on line 13
+[30-Aug-2017 15:33:34 UTC] PHP Warning:  mysql_connect(): Access denied for user 'nutan'@'localhost' (using password: YES) in /home/nutantec/public_html/dbconfig.php on line 9
+[24-Nov-2017 19:56:04 UTC] PHP Fatal error:  Call to a member function IsHTML() on null in /home/nutantec/public_html/application/controllers/Contactus.php on line 83
+[24-Nov-2017 19:56:40 UTC] PHP Fatal error:  Call to a member function Send() on null in /home/nutantec/public_html/application/controllers/Contactus.php on line 136
+[24-Nov-2017 19:59:53 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home/nutantec/public_html/application/controllers/Email.php on line 29
+[15-Jan-2018 18:13:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/nutantec/public_html/application/controllers/Email.php on line 79
+[15-Jan-2018 18:13:39 UTC] PHP Fatal error:  Call to undefined function getuserip() in /home/nutantec/public_html/application/controllers/Email.php on line 100
+[15-Jan-2018 18:20:21 UTC] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE) in /home/nutantec/public_html/application/controllers/Welcome.php on line 25
+[15-Jan-2018 18:20:48 UTC] PHP Fatal error:  Call to undefined function getBrowserAgent() in /home/nutantec/public_html/application/controllers/Welcome.php on line 24
+[15-Jan-2018 18:43:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/nutantec/public_html/application/controllers/Contactus.php on line 72
+[27-Jan-2018 18:46:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nutantec/public_html/application/controllers/Contactus.php on line 77
+[27-Jan-2018 20:09:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nutantec/public_html/application/controllers/Contactus.php on line 93
