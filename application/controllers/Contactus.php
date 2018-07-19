@@ -123,8 +123,8 @@ class Contactus extends CI_Controller {
 			$mail->SMTPSecure = "ssl";
 			$mail->Port     = 465;
 			$mail->Host     = "smtp.gmail.com";
-			$mail->Username = "contact.nutantech@gmail.com";
-			$mail->Password = "adminnutan";
+			$mail->Username = "xxxxxx@gmail.com";
+			$mail->Password = "xxxxxx";
 			$mail->Mailer   = "smtp";
 			//Send EMAIL
 			$mail->SetFrom($email);
@@ -160,8 +160,8 @@ class Contactus extends CI_Controller {
         $mail->Host = 'freehosting2.managedns.org';             // Specify main and backup SMTP servers
         $mail->SMTPAuth = true;                     // Enable SMTP authentication
         $mail->SMTPSecure = "tls";  // prefix for secure protocol to connect to the server
-        $mail->Username = 'admin@nutantech.online';          // SMTP username
-        $mail->Password = 'nutantech@123'; // SMTP password
+        $mail->Username = 'xxxxxxx@nutantech.online';          // SMTP username
+        $mail->Password = 'xxxxxx@123'; // SMTP password
         $mail->Port       = 587;                         // TCP port to connect to
 
         $mail->setFrom('admin@nutantech.online', 'Nutantech');
@@ -183,8 +183,8 @@ class Contactus extends CI_Controller {
         $mail->Host = 'freehosting2.managedns.org';             // Specify main and backup SMTP servers
         $mail->SMTPAuth = true;                     // Enable SMTP authentication
         $mail->SMTPSecure = "tls";  // prefix for secure protocol to connect to the server
-        $mail->Username = 'contact@nutantech.online';          // SMTP username
-        $mail->Password = 'nutantech@123'; // SMTP password
+        $mail->Username = 'xxxxx@nutantech.online';          // SMTP username
+        $mail->Password = 'xxxxxx@123'; // SMTP password
         $mail->Port       = 587;                         // TCP port to connect to
 
         $mail->setFrom('contact@nutantech.online', 'Nutantech');
